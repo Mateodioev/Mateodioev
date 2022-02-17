@@ -1,5 +1,5 @@
-<center>Hi there 👋, I'm Neto</center>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Mateodioev&color=blue&style=plastic&label=Views" alt="Mateodioev"></p>
+## Hi there 👋, I'm Mateodioev (_Neto_)
+![Mateodioev](https://komarev.com/ghpvc/?username=Mateodioev&color=blue&style=plastic&label=Views)
 
 - 🔭 I’m currently working on telegram bots
 - 🌱 I’m currently learning _Goland_ and _Js_
