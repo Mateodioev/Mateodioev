@@ -1,5 +1,7 @@
-## Hi there 👋, I'm Mateodioev (_Neto_)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=oswald&size=21&duration=3500&background=0000000F&center=true&vCenter=true&multiline=true&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Mateodioev+(Neto))](https://git.io/typing-svg)
+
 ![Mateodioev](https://komarev.com/ghpvc/?username=Mateodioev&color=blue&style=plastic&label=Views)
+
 
 - 🔭 I’m currently working on telegram bots
 - 🌱 I’m currently learning _Golang_ and _Js_
