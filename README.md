@@ -10,7 +10,7 @@
 [![Mateodioev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mateodioev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <details>
-    <summary>Languages & Tools</summary>
+    <summary><h3>Languages & Tools</h3></summary>
     <table>
         <tr>
             <td align="center">
@@ -19,16 +19,12 @@
             <td align="center">
                 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
             </td>
             <td align="center">
                 <img src="https://img.shields.io/badge/-Docker-fff?&logo=Docker">
             </td>
-        </tr>
-        <tr>
             <td align="center">
                 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
             </td>
@@ -37,7 +33,7 @@
 </details>
 
 <details>
-    <summary>My stats</summary>
+    <summary><h3>My stats</h3></summary>
     <table>
         <tr>
             <td>
