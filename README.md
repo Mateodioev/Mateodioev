@@ -3,9 +3,7 @@
 ![Mateodioev](https://komarev.com/ghpvc/?username=Mateodioev&color=blue&style=plastic&label=Views)
 
 
-- 🔭 I’m currently working on telegram bots
-- 🌱 I’m currently learning _Golang_ and _Js_
-- ⚡ Fun fact: *Read the docs!*
+- 🔭 Currently I'm writing spaghetti code
 
 [![Mateodioev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mateodioev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
