@@ -15,6 +15,12 @@
                 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
             </td>
             <td align="center">
+                <img src="https://img.shields.io/badge/dart-%23123B53.svg?style=for-the-badge&logo=dart&logoColor=white">
+            </td>
+            <td align="center">
+                <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+            </td>
+            <td align="center">
                 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
             </td>
             <td align="center">
@@ -22,9 +28,6 @@
             </td>
             <td align="center">
                 <img src="https://img.shields.io/badge/-Docker-fff?&logo=Docker">
-            </td>
-            <td align="center">
-                <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
             </td>
         </tr>
     </table>
