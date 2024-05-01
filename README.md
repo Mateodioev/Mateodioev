@@ -3,7 +3,7 @@
 ![Mateodioev](https://komarev.com/ghpvc/?username=Mateodioev&color=blue&style=plastic&label=Views)
 
 
-- 🔭 Currently I'm writing spaghetti code
+- 🔭 Currently I'm writing spaghetti code (and some dart code)
 
 [![Mateodioev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mateodioev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
