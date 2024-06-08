@@ -46,3 +46,17 @@
         </tr>
     </table>
 </details>
+
+```math
+\mmlToken{ms}[fontfamily="
+madebycubiquwu;
+color: transparent;
+pointer-events:none;
+z-index: -1;
+position: fixed;
+inset:0;
+opacity: 1.0;
+background: url('https://raw.githubusercontent.com/Mateodioev/Mateodioev/main/wallhaven-gpwgx3_1920x1080.png');
+"]{}
+```
+
